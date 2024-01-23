@@ -4,9 +4,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasanfaiyaz&show_icons=true&locale=en" alt="mehedihasanfaiyaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanfaiyaz&" alt="mehedihasanfaiyaz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanfaiyaz&" alt="mehedihasanfaiyaz" height="30" width="40"  /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasanfaiyaz&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasanfaiyaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasanfaiyaz&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasanfaiyaz" height="30" width="40"  /> </p>
 
 <p align="left"> <a href="https://twitter.com/mehedifaiyaz" target="blank"><img src="https://img.shields.io/twitter/follow/mehedifaiyaz?logo=twitter&style=for-the-badge" alt="mehedifaiyaz" /></a> </p>
 
