@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working on https://Proglex.com<br>📫 Reach me at mhfaiyaz@proglex.com
+💻 Currently working on www.Proglex.com <br>📫 Reach me at mhfaiyaz@proglex.com
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mehedihasanfaiyaz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanfaiyaz&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanfaiyaz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehedihasanfaiyaz&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
