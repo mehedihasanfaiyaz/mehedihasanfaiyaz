@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working on Proglex.com<br>📫 Reach me at mhfaiyaz@proglex.com
+💻 Currently working on https://Proglex.com<br>📫 Reach me at mhfaiyaz@proglex.com
 
 
 ## 🌐 Socials:
