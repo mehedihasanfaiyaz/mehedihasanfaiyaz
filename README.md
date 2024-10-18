@@ -1,20 +1,36 @@
-# 💫 About Me:
-💻 Currently working on www.Proglex.com <br>📫 Reach me at mhfaiyaz@proglex.com
+### Hey 👋
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehedihasanfaiyaz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehedihasanfaiyaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedihasanfaiyaz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MehediFaiyaz) 
+Soon, there will be more info about me here 😋
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehedihasanfaiyaz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanfaiyaz&theme=onedark&hide_border=false)<br/>
+<br>
+<div align="center">
+  <a href="https://www.lichter.io/?ref=gh-logo" target="blank">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-white-red.svg" media="(prefers-color-scheme: dark)">
+      <img align="center" width="150px" alt="Minimalistic logo consisting of a lightbulb and a red 'AL' in the middle as filament" src="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-black-red.svg">
+    </picture>
+  </a>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehedihasanfaiyaz&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=mehedihasanfaiyaz&icon=0&color=9)](https://visitcount.itsvg.in)
+<h2 align="center">Where to follow me</h2>
+<br>
+<p align="center">
+  <a href="https://www.lichter.io/" target="_blank">🕸️ Website</a>
+  &bull;
+  <a href="https://twitter.com/TheAlexLichter" target="_blank">🐦 Twitter</a>
+  <br>
+  <a href="https://www.linkedin.com/in/alexanderlichter/" target="_blank">🗃️ LinkedIn</a>
+  &bull;
+  <a href="https://www.youtube.com/@TheAlexLichter" target="_blank">🎬️ YouTube</a>
+  &bull;
+  <a href="https://www.twitch.tv/TheAlexLichter/" target="_blank">📺 Twitch</a>
+</p><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">Metrics</h2><br>
+
+<div align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</div>
