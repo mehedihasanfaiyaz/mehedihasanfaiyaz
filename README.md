@@ -17,6 +17,8 @@ I'm a **Full Stack Web Developer** with a strong foundation in web technologies 
 - GDScript (Godot)
 
 ---
+![Profile Image](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=71901812&image_size=auto)
+---
 
 ### 🌟 About Me
 
@@ -37,14 +39,24 @@ I’m committed to creating clean, maintainable code and contributing to the ope
 
 ---
 
-### 📫 Connect with Me
+### 💻 JavaScript Example
 
-Let’s connect and collaborate! 
+Here’s a JavaScript version of a simple class implementation:
 
-- **[LinkedIn](#)**
-- **[Email](mailto:your.email@example.com)**
-- **[Portfolio](#)**
+```javascript
+class Faiyaz {
+  constructor() {
+    this.name = "AMehedi Hasan Faiyaz";
+    this.username = "mehedihasanfaiyaz";
+    this.location = "Cumilla, Bangladesh";
+    this.twitter = "@Mehedi_Faiyaz";
+    this.web = "https://proglex.com";
+  }
 
----
+  toString() {
+    return this.name;
+  }
+}
 
-Thanks for stopping by! I’m looking forward to connecting, learning, and growing within the GitHub community.
+const me = new Faiyaz();
+console.log(me.toString());
