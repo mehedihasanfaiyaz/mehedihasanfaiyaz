@@ -41,9 +41,9 @@ I’m committed to creating clean, maintainable code and contributing to the ope
 
 Let’s connect and collaborate! 
 
-- **[LinkedIn](#)** - *(Replace with your LinkedIn profile)*
-- **[Email](mailto:your.email@example.com)** - *(Replace with your email)*
-- **[Portfolio](#)** - *(Replace with a link to your portfolio, if you have one)*
+- **[LinkedIn](#)**
+- **[Email](mailto:your.email@example.com)**
+- **[Portfolio](#)**
 
 ---
 
