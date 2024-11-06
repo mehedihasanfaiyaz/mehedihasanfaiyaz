@@ -1,36 +1,31 @@
-### Hey 👋
+# Mehedi Hasan Faiyaz
 
+👋 Hi there! I'm **Mehedi Hasan Faiyaz**, a passionate Full Stack Web Developer with a focus on creating dynamic and responsive web applications. I enjoy learning new technologies and building high-quality, scalable solutions.
 
-Soon, there will be more info about me here 😋
+## 🔧 Tech Stack
 
-<br>
-<div align="center">
-  <a href="https://www.lichter.io/?ref=gh-logo" target="blank">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-white-red.svg" media="(prefers-color-scheme: dark)">
-      <img align="center" width="150px" alt="Minimalistic logo consisting of a lightbulb and a red 'AL' in the middle as filament" src="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-black-red.svg">
-    </picture>
-  </a>
-</div>
+Here's a summary of the technologies and languages I work with:
 
-<br>
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js
+- **Backend**: PHP, Laravel
+- **Game Development**: GDScript (for Godot)
 
-<h2 align="center">Where to follow me</h2>
-<br>
-<p align="center">
-  <a href="https://www.lichter.io/" target="_blank">🕸️ Website</a>
-  &bull;
-  <a href="https://twitter.com/TheAlexLichter" target="_blank">🐦 Twitter</a>
-  <br>
-  <a href="https://www.linkedin.com/in/alexanderlichter/" target="_blank">🗃️ LinkedIn</a>
-  &bull;
-  <a href="https://www.youtube.com/@TheAlexLichter" target="_blank">🎬️ YouTube</a>
-  &bull;
-  <a href="https://www.twitch.tv/TheAlexLichter/" target="_blank">📺 Twitch</a>
-</p><br>
+## 🌱 What I'm Up To
 
-<h2 align="center">Metrics</h2><br>
+I'm always seeking new challenges and learning opportunities. Currently, I'm focused on enhancing my skills in **React** and **Laravel**, and I'm experimenting with **GDScript** for game development projects in Godot.
 
-<div align="center">
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</div>
+## 📈 GitHub Stats
+
+My repositories reflect my journey in development and continuous improvement. You'll find a mix of full-fledged applications, small code snippets, and experimental projects here.
+
+## 📫 Connect with Me
+
+Feel free to reach out or connect with me:
+
+- [LinkedIn](#) - *(Replace with your LinkedIn profile link)*
+- [Email](mailto:your.email@example.com) - *(Replace with your email address)*
+- [Portfolio](#) - *(Replace with a link to your portfolio, if you have one)*
+
+---
+
+Thanks for visiting! I hope my work here provides some inspiration or useful code for other developers. I'm looking forward to connecting, collaborating, and growing with the GitHub community!
