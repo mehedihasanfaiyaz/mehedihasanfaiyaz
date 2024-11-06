@@ -1,62 +1,18 @@
-# 👋 Hello, I'm Mehedi Hasan Faiyaz!
+### Hi there 👋, my name is Mehedi Hasan Faiyaz
+![](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=71901812&image_size=auto)
 
-I'm a **Full Stack Web Developer** with a strong foundation in web technologies and a passion for building scalable and user-friendly applications.
+I'm a Full Stack Web Developer with a strong foundation in web technologies and a passion for building scalable and user-friendly applications.
 
----
+Skills: NEXT-JS / VUE JS / REACT / JS / PHP / LARAVEL / HTML / CSS / GDSCRIPT
 
-### 🛠️ My Tech Stack
+- 🔭 I’m currently working on Proglex.com 
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about Anything 
+- 📫 How to reach me: mhfaiyaz@gmail.com 
+- ⚡ Fun fact: Too much lazy 
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React, Next.js
 
-**Backend**
-- PHP, Laravel
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedihasanfaiyaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mehedihasanfaiyaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedihasanfaiyaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedihasanfaiyaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mehedi-hasan-faiyaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Mehedi_Hasan_Faiyaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://proglex.com)  
 
-**Game Development**
-- GDScript (Godot)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedihasanfaiyaz)  
 
----
-![Profile Image](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=71901812&image_size=auto)
----
-
-### 🌟 About Me
-
-- 🚀 Currently focused on advancing my skills in **React** and **Laravel**.
-- 🎮 Exploring game development with **GDScript**.
-- 🌱 Passionate about learning, experimenting, and sharing knowledge.
-
----
-
-### 📊 My GitHub
-
-Here on GitHub, you'll find:
-- Complete **full-stack applications**
-- Small, reusable **code snippets**
-- **Experimental projects** exploring new ideas
-
-I’m committed to creating clean, maintainable code and contributing to the open-source community!
-
----
-
-### 💻 JavaScript Example
-
-Here’s a JavaScript version of a simple class implementation:
-
-```javascript
-class Faiyaz {
-  constructor() {
-    this.name = "AMehedi Hasan Faiyaz";
-    this.username = "mehedihasanfaiyaz";
-    this.location = "Cumilla, Bangladesh";
-    this.twitter = "@Mehedi_Faiyaz";
-    this.web = "https://proglex.com";
-  }
-
-  toString() {
-    return this.name;
-  }
-}
-
-const me = new Faiyaz();
-console.log(me.toString());
