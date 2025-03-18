@@ -44,6 +44,7 @@ I'm a **Full Stack Web Developer** passionate about creating interactive applica
 
 ## 📱 Connect With Me
 
+[![Facebook](https://img.shields.io/badge/Facebook-mehedihasanfaiyaz-blue?style=flat&logo=facebook)](https://www.facebook.com/mehedihasanfaiyaz/)
 [![Instagram](https://img.shields.io/badge/Instagram-mehedihasanfaiyaz-purple?style=flat&logo=instagram)](https://www.instagram.com/mehedihasanfaiyaz/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-mehedi--hasan--faiyaz-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/mehedi-hasan-faiyaz)
 [![Reddit](https://img.shields.io/badge/Reddit-Mehedi__Hasan__Faiyaz-red?style=flat&logo=reddit)](https://www.reddit.com/user/Mehedi_Hasan_Faiyaz)
