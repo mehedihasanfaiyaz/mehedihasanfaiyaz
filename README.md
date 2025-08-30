@@ -37,7 +37,7 @@ I'm a **Full Stack Web Developer** passionate about creating interactive applica
 
 ## 💡 What I'm up to
 
-- 🔭 Currently building [Proglex.com](https://proglex.com)
+- 🔭 Currently building [Proglex.com](https://inqord.com)
 - 🌱 Learning Flutter for cross-platform mobile development
 - 💭 Always thinking about how to write cleaner, more efficient code
 
