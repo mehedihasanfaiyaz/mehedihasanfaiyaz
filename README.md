@@ -8,7 +8,7 @@ I'm a **Full Stack Web Developer** passionate about creating interactive applica
 --
 
 
-[![Website](https://img.shields.io/badge/Website-proglex.com-blue?style=for-the-badge&logo=globe)](https://proglex.com)
+[![Website](https://img.shields.io/badge/Website-proglex.com-blue?style=for-the-badge&logo=globe)](https://inqord.com)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mehedihasanfaiyaz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehedihasanfaiyaz/)
